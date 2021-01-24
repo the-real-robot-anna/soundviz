@@ -9,6 +9,8 @@ Sound visualizer using an Arduino, microphone and LEDs
 * Jumper wires
 
 ## Circuit Setup
+![soundviz circuit](img/soundviz.jpg)
+
 1. Connect the positive power pin of the sound sensor module to an Arduino 5V power pin
 2. Connect the ground pin of the sound sensor module to an Arduino ground pin
 3. Connect the analog output pin of the sound sensor module to an analog input pin on the Arduino
